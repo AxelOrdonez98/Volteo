@@ -1,0 +1,10 @@
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\bin\Debug\Volteo_De_Cadenas_.exe.config
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\bin\Debug\Volteo_De_Cadenas_.exe
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\bin\Debug\Volteo_De_Cadenas_.pdb
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.csproj.AssemblyReference.cache
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.Form1.resources
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.Properties.Resources.resources
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.csproj.GenerateResource.cache
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.csproj.CoreCompileInputs.cache
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.exe
+C:\Users\solda\source\repos\Volteo_De_Cadenas_\Volteo_De_Cadenas_\obj\Debug\Volteo_De_Cadenas_.pdb
